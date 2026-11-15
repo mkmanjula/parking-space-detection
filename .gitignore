@@ -225,3 +225,4 @@ data/*
 *.pt
 *.onnx
 *.mp4
+.DS_Store
