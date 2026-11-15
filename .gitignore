@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large project files
+data/*
+!data/.gitkeep
+*.pt
+*.onnx
+*.mp4
